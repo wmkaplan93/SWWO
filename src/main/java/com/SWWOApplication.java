@@ -1,13 +1,13 @@
-package com.techelevator;
+package com;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBootSeedApplication {
+public class SWWOApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringBootSeedApplication.class, args);
+		SpringApplication.run(SWWOApplication.class, args);
 	}
 
 }
